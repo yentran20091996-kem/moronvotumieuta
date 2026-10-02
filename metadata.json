@@ -1,0 +1,6 @@
+{
+  "name": "Hành Trình Đa Vũ Trụ Ngôn Từ",
+  "description": "Người Dẫn Đường Thông Thái đồng hành cùng học sinh tiểu học khám phá vẻ đẹp câu chữ qua Show Don't Tell, Bản đồ từ vựng và Thử thách tinh tú.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
